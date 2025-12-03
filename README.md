@@ -13,7 +13,7 @@ projects i’ve built, experiments i love,
 and the little ascii things that make me smile.
 
 if you land here, you’re meant to go there:  
-https://keeratkaurbhatia.github.io/portfolio
+https://keeratkaurbhatia.github.io/Portfolio/
 
 the real home:  
 https://keeratkaur.my.canva.site
